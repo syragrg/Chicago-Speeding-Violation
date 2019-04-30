@@ -18,7 +18,6 @@ A line chart was approriate in this instance which illustrates that there is an 
 
 ![](https://github.com/syragrg/IndividualProject/blob/master/Visualizations/4..png?raw=true)
 
-This chart 
 
 When we plot the graph for average violations for every zip code we must consider the number of cameras in that specific zip code, we can observe that the top five zip codes with highest number of cameras have lower average violations, this suggests that a greater number of speed cameras in any area would reduce the number of speed violations. 
 
