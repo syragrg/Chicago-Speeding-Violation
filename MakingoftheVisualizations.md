@@ -21,9 +21,9 @@ A line chart was approriate in this instance which illustrates that there is an 
 This chart 
 
 When we plot the graph for average violations for every zip code we must consider the number of cameras in that specific zip code, we can observe that the top five zip codes with highest number of cameras have lower average violations, this suggests that a greater number of speed cameras in any area would reduce the number of speed violations. 
-IMG1
+
 Thus to determine the number of areas where we need to install more speed cams we’ll have to look at the areas with high avg violations.
-IMG2
+
 
 Data used
 
