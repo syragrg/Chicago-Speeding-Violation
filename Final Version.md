@@ -12,6 +12,8 @@ This section will evaulate 3 different charts. The section will cover how the ch
 
 ### 1. 
 
+![](https://github.com/syragrg/Chicago-Speeding-Violation/blob/master/Visualizations/A.png?raw=true)
+
 **Development Process:**
 The dashboard is also properly aligned compared to my previous dashboard, which was created under the tiled setting as I was unaware of the functions available. The headings for the single line charts were hidden as it is obvious that the axis represents years. For the dual axis chart, the font color was changed according to color scheme. The dual axis chart was a tornado chart in the previous version of the project. In the tornado form, it was difficult to interpret the relationship between number of camera and instances of speed violation as the bars were in the same line and too much time was utilized in determining any pattern. The line chart with synchronized axis illustrates any existing relationship in a clear manner.
 
@@ -22,6 +24,8 @@ Over the years, there have been more speed camera installed and lower record of 
 
 ### 2.
 
+![](https://github.com/syragrg/Chicago-Speeding-Violation/blob/master/Visualizations/B.png?raw=true)
+
 **Development Process:**
 Since only 2 attributes are used, the line chart delivers the message in the simplest and clearest manner. Again, color has been used to ensure consistency within the project. The header has been hidden as the labels for the x-axis clearly states what it is. The days axis was additionally formatted to ensure the day started from Monday instead of Sunday. This changed the shape of the line from a ‘U’ shape to a line showing clearer upward trend.
 The column field was set as violation dates, formatted to show only weekdays. The row field was set as an average of violation instances. The records were filtered by violation dates from 2015-2018 where the full records are available.
@@ -31,8 +35,12 @@ During the weekend, there are more instances of people speeding. The speed camer
 
 ### 3. 
 
+![](https://github.com/syragrg/Chicago-Speeding-Violation/blob/master/Visualizations/C.png?raw=true)
+
 **Development Process:**
-I first tried to stack a line on top of one another on the same plane to display the trend in number of cameras installed and the number of schools in 5 different zip code, using colors to illustrate the fluctuation in the total speed violations that occurred in each zip code. The 5 zip code were filtered as having the most number of speed violations. The chart was not effective and took too long to analyze and show any correlation between number of schools and camera with the total violations occurred. 
+I first tried to stack a line on top of one another on the same plane to display the trend in number of cameras installed and the number of schools in 5 different zip code, using colors to illustrate the fluctuation in the total speed violations that occurred in each zip code. The 5 zip code were filtered as having the most number of speed violations. The chart(below) was not effective and took too long to analyze and show any correlation between number of schools and camera with the total violations occurred. 
+
+![](https://github.com/syragrg/Chicago-Speeding-Violation/blob/master/Visualizations/D.png?raw=true)
 
 Therefore, I switched the visualization and presented the same data in a bar chart format and added years from 2015 to 2018. The year 2014 and 2019 were omitted as the records were not obtained for the full year for the two years. The correlation is more visible as the chart is easier to interpret. With the color-coding implemented, it is much easier to tell apart the trends for each zip code over the year in the bar format. The color becomes lighter towards the more recent years, thereby showing that the overall speeding violation is in the decline. Within each year, the zip code producing the highest number of violations can be determined easily by the bolder color. 
 
