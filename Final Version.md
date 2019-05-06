@@ -1,5 +1,6 @@
 #### Saira Gurung
 ##### Final Version of Findings and Visualizations from the Chicago Speed Violation data. 
+The charts below illustrate trends and effects of the installation of speed camera in safety zone, which are boundaries within 1/8th of a mile around any Chicago parks or schools. In order to uncover trends, data from 3 different source were utilized. An inner join between Speed Camera Violations data and Ward Offices data on the column Ward, and a left join on the data set Ward Offices and Chicago Public Schools location data on the column Zipcode was performed to connect the datasets.
 
 ## **Chart Design Overview**
 
