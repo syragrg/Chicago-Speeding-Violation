@@ -52,6 +52,10 @@ The relationship is more visible, and it is evident that for each zip code with 
 In areas with more schools, there are more occurrences of speed violations. This would potentially mean a more hazardous traffic environment for the students. In addition, one of the factors affecting camera location is speeding. Thus, more speed camera should be implemented to enforce safety for the people in area with more schools, as well as to improve driver’s awareness of school zones and the speed limit around the area.
 
 ## **References**
+[1]
+"Speed-camera violations down 11.8 percent—the city credits drivers for that: map." Chicago Sun Times, edited by Tanveer Ali, 13 Apr. 2018, www.chicago.suntimes.com/news/speed-camera-violations-down-11-8-and-the-city-credits-drivers-for-that-map/.
+
+[2] "Children's Safety Zone Program & Automated Speed Enforcement." City of Chicago, www.chicago.gov/city/en/depts/cdot/supp_info/children_s_safetyzoneporgramautomaticspeedenforcement.html.
 
 ## **Source of Data and Charts**
 * [Chicago Public Schools Data](https://data.cityofchicago.org/Education/Chicago-Public-Schools-School-Locations-SY1819/8vyn-k2j3)
